@@ -24,8 +24,7 @@ This project demonstrates a Redux-inspired store to manage the state of a Tally 
 
 ## Challenges
 
-- Ensuring immutability in the state updates.
-- Keeping the reducer function pure and handling actions appropriately.
+- I wish i had more notes to deal with this in the sense of sure schkalk explained the add/subtract example in one of the videos, but i noticed that i had to use chatgpt for explanations a lot more than i had to for other projects.
 
 The implementation successfully follows functional programming principles and the Observer pattern.
 
